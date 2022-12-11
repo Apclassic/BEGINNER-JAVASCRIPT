@@ -34,3 +34,11 @@ const price = 10.34;
 const price = 1034;
 
 NaN //is techincally a number in terms of types
+
+//this is an object example
+
+const person = {
+    first: 'brodey',
+    last: 'briggs',
+    age: 26
+};
