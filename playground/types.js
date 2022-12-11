@@ -25,3 +25,12 @@ const kids = 3;
 const eachKidGets = math.floor(smarties / kids);
 const dadGets = smarties % kids;
 console.log(`Each kids gets ${eachKidGets}`);
+
+//Computers can only store integers aka floating point numbers
+//Visit https://0.30000000000000004.com to learn more
+
+const price = 10.34;
+//should be written as
+const price = 1034;
+
+NaN //is techincally a number in terms of types
